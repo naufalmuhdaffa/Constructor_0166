@@ -2,8 +2,9 @@
 #include <string>
 using namespace std;
 
-class mahasiswa {
+class Mahasiswa {
 public:
+    static int nim;
 
 };
 
